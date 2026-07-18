@@ -2,59 +2,81 @@
 
 # 👋 Привет! Меня зовут Дмитрий
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Monoton&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Unity+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Monoton\&size=26\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=C%23+Developer;Unity+Developer;ASP.NET+Core+Developer)](https://git.io/typing-svg)
 
-🎮 Я Unity-разработчик с 2 годами опыта  
-Создаю игровые проекты с упором на архитектуру, оптимизацию и чистый код
+### C#-разработчик: Unity и ASP.NET Core
 
-![Unity](https://img.shields.io/badge/Engine-Unity-000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/Code-C%23-239120?logo=c-sharp&logoColor=white)
-![Zenject](https://img.shields.io/badge/DI-Zenject-blue)
-![DOTween](https://img.shields.io/badge/Animation-DOTween-green)
-![Git](https://img.shields.io/badge/VersionControl-Git-orange)
+Разрабатываю игровые, клиентские и серверные приложения на C#.
+Основное направление — Unity-разработка, архитектура игровых систем, пользовательские интерфейсы и оптимизация. Также создаю backend-приложения и REST API на ASP.NET Core.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushev-Dmitriy&layout=compact&theme=radical)
+![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp\&logoColor=white)
+![Unity](https://img.shields.io/badge/GameDev-Unity-000000?logo=unity\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?logo=dotnet\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git\&logoColor=white)
+---
+
+## 🧰 Технологический стек
+
+### 🎮 Unity и Game Development
+
+`Unity` · `C#` · `Zenject` · `UniTask` · `UniRx`
+`DOTween` · `Addressables` · `ScriptableObjects`
+`uGUI` · `TextMeshPro` · `New Input System`
+`JSON` · `NUnit` · `Play Mode Tests` · `ECS/DOTS`
+
+Работаю с архитектурой игровых систем, dependency injection, асинхронным кодом, сохранением данных, пользовательскими интерфейсами и оптимизацией проектов под разные платформы.
+
+### 🌐 Backend и .NET
+
+`ASP.NET Core` · `REST API` · `Entity Framework Core`
+`PostgreSQL` · `MS SQL Server` · `SQLite` · `Redis`
+`Docker` · `Swagger / OpenAPI` · `LINQ`
+`Dependency Injection` · `Clean Architecture`
+
+Разрабатываю серверные приложения с разделением ответственности между слоями, работой с базами данных, контейнеризацией и документированием API.
+
+### 🧠 Общие навыки
+
+`ООП` · `SOLID` · `Design Patterns` · `Async/Await`
+`Git` · `Docker Compose` · `Unit Testing`
+`Профилирование` · `Оптимизация` · `Чистый код`
 
 ---
 
-### 🧠 Сейчас изучаю
-Entity Component System (ECS/DOTS)  
-Unit-тестирование и Play Mode тесты  
-Оптимизацию и профилирование под мобильные устройства  
+## 📚 Сейчас развиваюсь в направлениях
+
+* архитектура backend-приложений на ASP.NET Core;
+* интеграционное и unit-тестирование;
+* контейнеризация и развёртывание приложений;
+* ECS/DOTS и data-oriented подход в Unity;
+* профилирование и оптимизация клиентских приложений.
 
 ---
 
-### 🧰 Технологии, с которыми работаю
-Unity / C# / Zenject / DOTween / Addressables / ScriptableObjects  
-JSON / Async-Await / Events / Coroutines / UI / Canvas  
-SOLID / ООП / NUnit / ECS (DOTS)  
+## 🚀 Избранные проекты
+
+### 🎮 Unity
+
+🏙️ [**Night City Drift**](https://github.com/Tushev-Dmitriy/Night_City_Drift)
+Аркадная игра про дрифт с динамической камерой, автомобильной физикой и системой заданий.
+
+🎨 [**Dreamscape**](https://github.com/Tushev-Dmitriy/dreamscape)
+Многопользовательский проект для творческих людей с возможностью размещения пользовательских работ.
+
+🌿 [**Resonance**](https://github.com/Tushev-Dmitriy/resonance)
+Атмосферная игра, построенная вокруг взаимодействия призрака с природными явлениями.
+
+### 🌐 ASP.NET Core
+
+В репозиториях представлены backend-проекты с REST API, Entity Framework Core, PostgreSQL, Docker и разделением приложения на архитектурные слои.
 
 ---
 
-### 🚀 Примеры моих проектов
-🏙️ [**Night City Drift**](https://github.com/Tushev-Dmitriy/Night_City_Drift) — аркадный дрифт с динамической камерой и системой заданий  
-🎨 [**Dreamscape**](https://github.com/Tushev-Dmitriy/dreamscape) — многопользовательская игра для творческих людей, где они могут загружать свои работы  
-🌿 [**Resonance**](https://github.com/Tushev-Dmitriy/resonance) — игра о взаимодействии призрака с природными явлениями  
+## 📫 Контакты
 
----
-
-### 📫 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40tushev__d-26A5E4?logo=telegram&logoColor=white)](https://t.me/tushev_d)
-[![Email](https://img.shields.io/badge/Email-tushev--dmitriy%40mail.ru-D14836?logo=gmail&logoColor=white)](mailto:tushev-dmitriy@mail.ru)
-[![Resume](https://img.shields.io/badge/Резюме-Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1R7b7DEJ0IdAEPqCKW39FW3f-DFKt5qms/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/Tushev-Dmitriy)
-
----
-
-### 📊 Статистика GitHub  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushev-Dmitriy&show_icons=true&theme=radical&count_private=true)  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats-rust.vercel.app?user=Tushev-Dmitriy&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-streak-stats-rust.vercel.app?user=Tushev-Dmitriy&theme=telegram&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-streak-stats-rust.vercel.app?user=Tushev-Dmitriy&theme=telegram&hide_border=true">
-</picture>
-
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-%40tushev__d-26A5E4?logo=telegram\&logoColor=white)](https://t.me/tushev_d)
+[![Email](https://img.shields.io/badge/Email-tushev--dmitriy%40mail.ru-D14836?logo=gmail\&logoColor=white)](mailto:tushev-dmitriy@mail.ru)
+[![Resume](https://img.shields.io/badge/Резюме-Google%20Drive-4285F4?logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1R7b7DEJ0IdAEPqCKW39FW3f-DFKt5qms/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github\&logoColor=white)](https://github.com/Tushev-Dmitriy)
