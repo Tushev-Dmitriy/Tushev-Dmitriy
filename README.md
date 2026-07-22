@@ -4,79 +4,248 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Monoton\&size=26\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=C%23+Developer;Unity+Developer;ASP.NET+Core+Developer)](https://git.io/typing-svg)
 
-### C#-разработчик: Unity и ASP.NET Core
+### C#-разработчик · Unity · ASP.NET Core
 
-Разрабатываю игровые, клиентские и серверные приложения на C#.
-Основное направление — Unity-разработка, архитектура игровых систем, пользовательские интерфейсы и оптимизация. Также создаю backend-приложения и REST API на ASP.NET Core.
+Создаю игровые, клиентские и серверные приложения на C# — от игровых механик и пользовательских интерфейсов в Unity до REST API, фоновых сервисов и систем работы с данными на ASP.NET Core.
 
-![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp\&logoColor=white)
-![Unity](https://img.shields.io/badge/GameDev-Unity-000000?logo=unity\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?logo=dotnet\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git\&logoColor=white)
+В проектах уделяю внимание архитектуре, разделению ответственности, качеству кода, производительности и доведению продукта до рабочего состояния.
+
+<br>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+</div>
+
 ---
 
 ## 🧰 Технологический стек
 
-### 🎮 Unity и Game Development
+### 🎮 Unity и разработка игр
 
-`Unity` · `C#` · `Zenject` · `UniTask` · `UniRx`
-`DOTween` · `Addressables` · `ScriptableObjects`
-`uGUI` · `TextMeshPro` · `New Input System`
-`JSON` · `NUnit` · `Play Mode Tests` · `ECS/DOTS`
+`Unity` · `C#` · `Zenject` · `UniTask` · `UniRx` · `DOTween`
+`Addressables` · `ScriptableObjects` · `New Input System` · `Cinemachine`
+`uGUI` · `TextMeshPro` · `JSON` · `NUnit` · `Play Mode Tests` · `ECS / DOTS`
 
-Работаю с архитектурой игровых систем, dependency injection, асинхронным кодом, сохранением данных, пользовательскими интерфейсами и оптимизацией проектов под разные платформы.
+Разрабатываю игровые механики, архитектурные системы, UI, системы сохранения и прогрессии. Работаю с dependency injection, асинхронным кодом, событиями, ScriptableObject-конфигурациями, профилированием и оптимизацией.
 
 ### 🌐 Backend и .NET
 
-`ASP.NET Core` · `REST API` · `Entity Framework Core`
+`ASP.NET Core` · `REST API` · `Entity Framework Core` · `LINQ`
 `PostgreSQL` · `MS SQL Server` · `SQLite` · `Redis`
-`Docker` · `Swagger / OpenAPI` · `LINQ`
-`Dependency Injection` · `Clean Architecture`
+`JWT` · `Swagger / OpenAPI` · `Docker` · `Docker Compose`
+`Clean Architecture` · `Dependency Injection` · `Background Services`
 
-Разрабатываю серверные приложения с разделением ответственности между слоями, работой с базами данных, контейнеризацией и документированием API.
+Создаю серверные приложения с аутентификацией, ролевой моделью, бизнес-логикой, валидацией, логированием, документированием API и работой с реляционными базами данных.
 
-### 🧠 Общие навыки
+### 🖥️ Клиентская разработка
 
-`ООП` · `SOLID` · `Design Patterns` · `Async/Await`
-`Git` · `Docker Compose` · `Unit Testing`
-`Профилирование` · `Оптимизация` · `Чистый код`
+`WPF` · `MVVM` · `WinForms` · `XAML` · `SQLite`
 
----
+Разрабатываю настольные приложения с разделением интерфейса и логики, привязкой данных, фильтрацией, редактированием и локальным хранением информации.
 
-## 📚 Сейчас развиваюсь в направлениях
+### ⚙️ Инженерные практики
 
-* архитектура backend-приложений на ASP.NET Core;
-* интеграционное и unit-тестирование;
-* контейнеризация и развёртывание приложений;
-* ECS/DOTS и data-oriented подход в Unity;
-* профилирование и оптимизация клиентских приложений.
+`ООП` · `SOLID` · `Design Patterns` · `Async / Await`
+`Git` · `GitHub` · `Unit Testing` · `Integration Testing`
+`Чистый код` · `Профилирование` · `Оптимизация` · `Контейнеризация`
 
 ---
 
-## 🚀 Избранные проекты
+## 💡 Ключевые компетенции
 
-### 🎮 Unity
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🏙️ [**Night City Drift**](https://github.com/Tushev-Dmitriy/Night_City_Drift)
-Аркадная игра про дрифт с динамической камерой, автомобильной физикой и системой заданий.
+### 🎮 Game Development
 
-🎨 [**Dreamscape**](https://github.com/Tushev-Dmitriy/dreamscape)
-Многопользовательский проект для творческих людей с возможностью размещения пользовательских работ.
+* проектирование игровых систем;
+* разработка игровых механик;
+* создание UI на uGUI и TextMeshPro;
+* dependency injection через Zenject;
+* асинхронность с UniTask;
+* реактивные системы с UniRx;
+* сохранение и загрузка данных;
+* конфигурации через ScriptableObjects;
+* профилирование и оптимизация;
+* разработка под Windows, Android и WebGL.
 
-🌿 [**Resonance**](https://github.com/Tushev-Dmitriy/resonance)
-Атмосферная игра, построенная вокруг взаимодействия призрака с природными явлениями.
+</td>
+<td width="50%" valign="top">
 
-### 🌐 ASP.NET Core
+### 🌐 Backend Development
 
-В репозиториях представлены backend-проекты с REST API, Entity Framework Core, PostgreSQL, Docker и разделением приложения на архитектурные слои.
+* проектирование REST API;
+* Clean Architecture;
+* Entity Framework Core;
+* PostgreSQL, MS SQL Server и SQLite;
+* JWT-аутентификация и авторизация;
+* роли и разграничение доступа;
+* валидация и обработка ошибок;
+* фоновые сервисы;
+* Swagger / OpenAPI;
+* Docker и Docker Compose.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Избранные проекты
+
+## 🎮 Unity
+
+### 🚗 [Night City Drift](https://github.com/Tushev-Dmitriy/Night_City_Drift)
+
+Аркадная игра про ночной дрифт, разработанная для браузерной платформы. В проекте реализованы управление автомобилем, игровая физика, система заданий, динамическая камера, пользовательский интерфейс и сохранение прогресса.
+
+**Ключевые особенности**
+
+* физика и управление автомобилем;
+* система дрифта и подсчёта очков;
+* задания и игровая прогрессия;
+* динамическая камера;
+* главное меню и игровой UI;
+* сохранение пользовательского прогресса;
+* адаптация и оптимизация под WebGL.
+
+**Технологии**
+
+`Unity` · `C#` · `New Input System` · `Cinemachine` · `DOTween` · `ScriptableObjects` · `JSON` · `WebGL`
+
+---
+
+### 🎓 [CSharp Quest](https://github.com/Tushev-Dmitriy/CSharp-Quest)
+
+Обучающая 3D-игра для изучения основ языка C#. Теоретические темы представлены в виде игровых механик: типы данных становятся предметами, условные конструкции управляют объектами, а циклы и методы используются для прохождения игровых испытаний.
+
+**Ключевые особенности**
+
+* игровые механики для изучения C#;
+* инвентарь типов данных;
+* задачи на условия, циклы и методы;
+* изменение параметров персонажа;
+* событийная архитектура;
+* модульная система сохранений;
+* автоматическое сохранение прогресса;
+* Play Mode-тесты сохранения и загрузки.
+
+**Технологии**
+
+`Unity 6` · `C#` · `Zenject` · `SignalBus` · `DOTween` · `ScriptableObjects` · `New Input System` · `Newtonsoft.Json` · `NUnit`
+
+---
+
+### 🌌 [Dreamscape](https://github.com/Tushev-Dmitriy/dreamscape)
+
+Многопользовательский проект для творческих людей, объединяющий виртуальное пространство и публикацию пользовательских работ. Пользователи могут перемещаться по миру, взаимодействовать друг с другом и размещать собственный контент.
+
+**Ключевые особенности**
+
+* многопользовательское взаимодействие;
+* система публикации пользовательских работ;
+* виртуальное пространство для творчества;
+* пользовательские профили;
+* интерактивный интерфейс;
+* клиентская игровая логика;
+* взаимодействие игровых и UI-систем.
+
+**Технологии**
+
+`Unity` · `C#` · `Multiplayer` · `uGUI` · `TextMeshPro` · `ScriptableObjects` · `JSON`
+
+---
+
+## 🌐 ASP.NET Core и .NET
+
+### 📋 [TaskFlow API](https://github.com/Tushev-Dmitriy/TaskFlow.API)
+
+REST API для системы управления проектами, задачами и командной работой. Проект имитирует backend корпоративного сервиса наподобие Jira или Trello.
+
+Пользователи могут создавать проекты, добавлять участников, назначать задачи, отслеживать статусы, устанавливать сроки и вести обсуждения в комментариях.
+
+**Ключевые особенности**
+
+* регистрация и аутентификация пользователей;
+* JWT-токены и ролевая модель;
+* управление проектами и участниками;
+* создание и назначение задач;
+* статусы, приоритеты и дедлайны;
+* комментарии к задачам;
+* централизованная обработка ошибок;
+* валидация входных данных;
+* логирование;
+* документирование API;
+* контейнеризация приложения и базы данных.
+
+**Технологии**
+
+`ASP.NET Core` · `Entity Framework Core` · `PostgreSQL` · `JWT` · `Swagger` · `Docker` · `Clean Architecture` · `FluentValidation`
+
+---
+
+### 📊 [JobTracker](https://github.com/Tushev-Dmitriy/JobTracker)
+
+Настольное WPF-приложение для систематизации поиска работы. Позволяет вручную добавлять отклики, редактировать информацию о них и анализировать результаты по разным направлениям разработки.
+
+**Ключевые особенности**
+
+* создание и редактирование откликов;
+* разделение вакансий по направлениям;
+* отдельный учёт Unity, .NET и других вакансий;
+* хранение компании, позиции и ссылки;
+* статусы откликов;
+* фиксация просмотров и отказов;
+* заметки и даты последующих действий;
+* статистика эффективности поиска;
+* локальное хранение данных.
+
+**Технологии**
+
+`C#` · `WPF` · `XAML` · `MVVM` · `Entity Framework Core` · `SQLite` · `Dependency Injection`
+
+---
+
+### 🤖 [JobRadar](https://github.com/Tushev-Dmitriy/JobRadar)
+
+Локальная система для автоматического сбора, анализа и организации вакансий. Сервис агрегирует предложения из разных источников, оценивает их соответствие профилю кандидата и формирует очередь для ручного рассмотрения.
+
+**Ключевые особенности**
+
+* сбор вакансий из нескольких источников;
+* поддержка агрегаторов и сайтов компаний;
+* исключение повторно обработанных вакансий;
+* автоматическая классификация вакансий;
+* извлечение требований и технологий;
+* оценка релевантности с подробным объяснением;
+* отдельный приоритет Unity- и C#-вакансий;
+* ручная корректировка решений;
+* очередь вакансий для рассмотрения;
+* ведение откликов и последующих действий;
+* диагностика источников и синхронизаций;
+* экспорт данных в JSON и CSV;
+* onboarding для первого запуска;
+* контейнеризированное локальное развёртывание.
+
+**Технологии**
+
+`ASP.NET Core` · `React` · `TypeScript` · `Entity Framework Core` · `PostgreSQL` · `Docker Compose` · `Background Services` · `REST API` · `Clean Architecture`
 
 ---
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40tushev__d-26A5E4?logo=telegram\&logoColor=white)](https://t.me/tushev_d)
-[![Email](https://img.shields.io/badge/Email-tushev--dmitriy%40mail.ru-D14836?logo=gmail\&logoColor=white)](mailto:tushev-dmitriy@mail.ru)
-[![Resume](https://img.shields.io/badge/Резюме-Google%20Drive-4285F4?logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1R7b7DEJ0IdAEPqCKW39FW3f-DFKt5qms/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github\&logoColor=white)](https://github.com/Tushev-Dmitriy)
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40tushev__d-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/tushev_d)
+[![Email](https://img.shields.io/badge/Email-tushev--dmitriy%40mail.ru-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tushev-dmitriy@mail.ru)
+[![Резюме](https://img.shields.io/badge/Резюме-PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](https://drive.google.com/file/d/1hpGHk9W4cgzaX7eCs-IxomJfLJxQei1w/view?usp=sharing)
+[![Портфолио](https://img.shields.io/badge/Портфолио-tushevdmitriy.tech-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://tushevdmitriy.tech)
+
+</div>
+
